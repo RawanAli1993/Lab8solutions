@@ -25,7 +25,7 @@ public class ShapeCreator {
             System.out.println(shape.getClass().getSimpleName() +
                     " area is " + shape.calculateArea() + ", " +
                     shape.getClass().getSimpleName() +
-                    " perimeter is " + shape.calculatePerimeter());
+                    " perimeter tyubis " + shape.calculatePerimeter());
         }
     }
 
